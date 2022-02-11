@@ -1,6 +1,5 @@
 Smart Contract/Solidity Payments
  
-Week_20_Solidity_HW
 
 Ethereum-Compatible Financial Institutions – STAGE ONE
 
