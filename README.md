@@ -1,4 +1,4 @@
-# Week_20_HW_Made_Public
+Smart Contract/Solidity Payments
  
 Week_20_Solidity_HW
 
